@@ -17,9 +17,6 @@ Passionate with low-level engine and graphic development, cooking the hot meals 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Github Stats
-[![Hyunsoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamGI55&show_icons=true&count_private=true&theme=radical&include_all_commits=true)](https://github.com/RamGI55/github-readme-stats)
-
 ----
 ### Contract 
 
