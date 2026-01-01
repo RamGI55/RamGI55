@@ -1,8 +1,11 @@
 ## RAM_GI - Hyunsoo (Henry) Park 
 
 `Gameplay Engineer who has artistic soul (Unreal Developer/Former Artist and CAD Technician)` 
+
 I'm gamplay engineer make what the people dreamed in the virtual world, love to solve the techincal problems and system buildings.
-Currently I am participated in the indie team as the gameplay developer, building multiplayer system and core logics in Unreal Engine 5. In Parallel of the my work, building custom C++ ECS 2D engine, to bridge the gap between high-level gameplay logic and low-level engine systems. 
+Currently I am participated in the indie team as the gameplay developer, building multiplayer system and core logics in Unreal Engine 5.
+
+In Parallel of the my work, building custom C++ ECS 2D engine, to bridge the gap between high-level gameplay logic and low-level engine systems. 
 Passionate with low-level engine and graphic development, cooking the hot meals and hitting the nice foodie places. Currently I am toronto-based, but willing to reloacate. 
 
 ----
