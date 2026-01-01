@@ -1,15 +1,15 @@
-## RAM_GI - Hyunsoo (Henry) Park 
+## 🐿️ RAM_GI - Hyunsoo (Henry) Park 
 
 `Gameplay Engineer who has artistic soul (Unreal Developer/Former Artist and CAD Technician)` 
 
-I'm gamplay engineer make what the people dreamed in the virtual world, love to solve the techincal problems and system buildings.
+I'm gameplay engineer make what the people dreamed in the virtual world, love to solve the techincal problems and system buildings.
 Currently I am participated in the indie team as the gameplay developer, building multiplayer system and core logics in Unreal Engine 5.
 
 In Parallel of the my work, building custom C++ ECS 2D engine, to bridge the gap between high-level gameplay logic and low-level engine systems. 
 Passionate with low-level engine and graphic development, cooking the hot meals and hitting the nice foodie places. Currently I am toronto-based, but willing to reloacate. 
 
 ----
-### Lanugages and Tools 
+### 📝 Lanugages and Tools 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,7 +18,7 @@ Passionate with low-level engine and graphic development, cooking the hot meals 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ----
-### Contract 
+### 📩 Contract 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyunsoo.park991@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunsooparkarchi/)
